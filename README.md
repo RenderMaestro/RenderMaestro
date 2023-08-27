@@ -2,6 +2,8 @@
 
 Constantly juggling between frontend and fullstack, tinkering on personal projects, and occasionally taking a day off to solve the puzzle for cleaner and better code
 
+cheers 🍻
+
 <!--
 **RenderMaestro/RenderMaestro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
