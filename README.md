@@ -4,8 +4,6 @@ Constantly juggling between frontend and fullstack, tinkering on personal projec
 
 cheers 🍻
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rendermaestro&label=Profile%20views&color=0e75b6&style=flat" alt="rendermaestro" /> </p>
-
 <!--
 **RenderMaestro/RenderMaestro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
